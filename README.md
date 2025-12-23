@@ -1,0 +1,3 @@
+**Retail Store Sales Analysis Dashboard**
+
+This project showcases a Retail Store Sales Analysis Dashboard developed in Power BI, designed to convert sales and customer data into clear, actionable insights. The dashboard presents key KPIs such as total sales, total profit, average order value, and top-selling products, along with interactive visuals for category-wise, region-wise, and time-based analysis. Dynamic slicers and filters enable users to explore customer behavior and product performance in detail, helping identify sales patterns, growth trends, and high-performing segments so retail managers can make informed, data-driven business decisions.
